@@ -1,0 +1,18 @@
+{
+    "name": "marharyta/tt.pb.local",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Margarita Kozlenko",
+            "email": "rita.kozlemko99@gmail.com"
+        }
+    ],
+    
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
