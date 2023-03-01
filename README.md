@@ -19,4 +19,4 @@ Create a .env file by example of .env.example
 Add a migration to database in terminal window via print:
 php migrations.php
 
-Then open your local server with port you earlier configure and fill the form!
+Then open your local server with port you earlier configure, go to /form in url and fill the form!
